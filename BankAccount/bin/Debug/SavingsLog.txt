@@ -1,0 +1,11 @@
+Savings Account Information
+
+******************************
+
+Client Name: Joseph Miklus
+Account Number: 345678
+This is a Bronze level account.
+Interest Rate: 2.5%
+
+8/4/2016 8:51:10 PM +$30.00 Balance: $30.00
+8/4/2016 8:51:25 PM -$20.00 Balance: $10.00

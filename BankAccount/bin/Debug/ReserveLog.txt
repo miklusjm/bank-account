@@ -1,0 +1,11 @@
+Reserve Account Information
+
+******************************
+
+Client Name: Joseph Miklus
+Account Number: 234567
+Account Type: Personal
+Account Purpose: Rainy day fund
+
+8/4/2016 8:51:05 PM +$25.00 Balance: $25.00
+8/4/2016 8:51:20 PM -$15.00 Balance: $10.00

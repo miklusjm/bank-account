@@ -1,0 +1,11 @@
+Checking Account Information
+
+******************************
+
+Client Name: Joseph Miklus
+Account Number: 123456
+This account has free ATMs.
+This account has overdraft protection.
+
+8/4/2016 8:50:57 PM +$20.00 Balance: $20.00
+8/4/2016 8:51:16 PM -$10.00 Balance: $10.00
